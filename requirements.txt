@@ -1,0 +1,9 @@
+langchain==0.1.13
+langchain-community
+langchain-groq
+python-dotenv
+wikipedia
+duckduckgo-search
+langgraph
+openai
+langchain_openai
